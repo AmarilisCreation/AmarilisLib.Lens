@@ -1,0 +1,18 @@
+{
+  "name": "com.amariliscreation.lens",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib Lens",
+  "description": "This library is for using Lens in Unity",
+  "unity": "2020.3",
+  "dependencies": { },
+  "keywords": [
+    "Lens",
+    "async",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}
